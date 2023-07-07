@@ -1,0 +1,33 @@
+#shopbyCategory{
+    width:100%;
+   display: inline-block;
+    /* border: 3px solid rgb(128, 0, 49); */
+    margin-top: 3%;
+
+}
+.categoryitems{
+    width:85%;
+    margin-left: 7.5%;
+    display: inline-block;
+     /* border: 3px solid rgb(128, 0, 49); */
+}
+.sapceinbetween{
+    margin-bottom: 0rem;
+}
+.card2{
+    float: left;
+    margin-left: 4.5%;
+    margin-top: 2%;
+}
+.card-body > p{
+    color: #a54343;
+    font-size: 17px;
+}
+.card-body > span{
+    color: black !important;
+    font-size: 14px;
+}
+.img-fluid1{
+    height: 139px;
+    width: 154px;
+} 

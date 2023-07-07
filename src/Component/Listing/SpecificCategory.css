@@ -1,0 +1,50 @@
+.cardblock{
+    width:95%;
+    margin-left: 2.5%;
+    
+    border: 2px solid green;
+    display: inline-block;
+    margin-top: 6%;
+
+}
+.card1{
+    float: left;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.ring{
+    height: 250px;
+    width: 250px;
+    margin:5%;
+    border-image: 2px solid black;
+ }
+ .sortby{
+    width:150px;
+    height:90px;
+    /* border: solid 2px red; */
+    position :absolute;
+    margin-top: 1.6%;
+   margin-left: 80%;
+   display: block;
+   
+}
+.btnsize{
+    width: 180px;
+    height: 48px;
+    background-color:antiquewhite;
+    font-size: 20px;
+    border-radius: 10px;
+    display: block;
+}
+.des{
+    font-size:18px;
+    /* text-align: center; */
+}
+.dropdown-menu-dark{
+    background-color:antiquewhite;
+
+}
+.btnsize1{
+    width: 180px;
+    height: 35px
+}

@@ -1,0 +1,15 @@
+.imageSize3{
+    height : 80%;
+    width : 80%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+
+}
+.btnsize{
+    width: 180px;
+    height: 48px;
+    background-color:antiquewhite;
+    font-size: 20px;
+    border-radius: 10px;
+    display: block;
+}

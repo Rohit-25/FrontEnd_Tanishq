@@ -1,0 +1,16 @@
+.discount{
+    height:240px;
+    width: 0200%;
+    }
+    .discountimg{
+        width:86%;
+        margin-left: 7%;
+        height: 250px;
+        margin-top: 5%;
+        margin-bottom: 2%;
+        /* border: 3px solid rgb(128, 0, 49); */
+    }
+
+    .sapceinbetween{
+        margin-bottom: 0rem;
+    }
